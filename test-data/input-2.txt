@@ -1,0 +1,4 @@
+#Váltson át tüzelés közben
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

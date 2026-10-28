@@ -1,0 +1,4 @@
+#váltson vissza, ha a másik store-ban nincs torpedó.
+GT4500,0,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

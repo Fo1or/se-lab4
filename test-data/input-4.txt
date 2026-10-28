@@ -1,0 +1,3 @@
+#lőjön mind2 torpedóval
+GT4500,1,0,1,0
+TORPEDO,ALL

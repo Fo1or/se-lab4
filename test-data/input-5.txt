@@ -1,0 +1,3 @@
+#Dobjon hibát.(nincs lőszer)
+GT4500,0,0,0,0
+TORPEDO,SINGLE
